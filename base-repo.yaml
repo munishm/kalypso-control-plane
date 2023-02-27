@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/munishm/kalypso-control-plane
   branch: main
   path: .
-  commit: 149bb3dfb10c0f530cf473322e9390b837758278
+  commit: 9e73da6b224ee8a1d39d984b1414ef7650ef359a
